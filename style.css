@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+html,body{
+    background-color:  #ECDAC2;
+    ;
+}
+
+div{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color:#76D95380;
+     width: 600px;
+     height: 200px;
+     border-radius: 80px;
+     border:solid;
+     font-size: xx-large;
+     font-stretch: extra-expanded;
+     text-shadow: 2px 4px 8px rgba(0, 0, 0, 0.43);
+     box-shadow: 2px 4px 8px;
+     
+
+}
